@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Responsive Socila"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Social Website"
+	}
+}
